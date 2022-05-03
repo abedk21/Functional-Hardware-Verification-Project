@@ -1,0 +1,1 @@
+We were given a faulty RTL design implementation of a four-operation calculator that contains bugs. The four operators are add, subtract, shift-left, and shiftright. The design was encoded and treated as a black box. Our objective was to write a verification test plan to detect the bugs in the design and implement it by creating a verification environment using SystemVerilog.
